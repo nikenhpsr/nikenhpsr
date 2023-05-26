@@ -1,9 +1,33 @@
 ### Hi there 👋
 
-<!--
-**nikenhpsr/nikenhpsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an actuarial science graduate with a strong background in statistics, data science, Python, AI & Machine Learning, and MySQL. Recently, I've been expanding my skills in software engineering and have experience in several projects.
 
-Here are some ideas to get you started:
+I'm passionate about using my skills to solve complex problems and am always looking for new challenges. Feel free to check out my repositories and contributions to see some of the projects I've worked on.
+
+Thanks for stopping by!
+
+## Tech Stack
+
+### Stat, ML, AI, and Data Science
+
+[![My Stack](https://skillicons.dev/icons?i=python,flask,mysql,postgresql,r,pytorch,tensorflow)](https://skillicons.dev)
+
+### Web Development
+
+[![My Stack](https://skillicons.dev/icons?i=html,css,js,jest,ts,tailwind,bootstrap,react,prisma,nestjs,postgres,docker,gcp,git)](https://skillicons.dev)
+
+<!--Pinned Repositories:
+
+📊 Data Science Project
+A project analyzing and visualizing data using Python and machine learning techniques.
+
+🤖 AI & Machine Learning Project
+A project exploring the use of AI and machine learning in predictive modeling.
+
+💻 Software Engineering Project
+A full-stack web application built using Nest.js, Prisma ORM, and PostgreSQL.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
