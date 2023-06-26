@@ -6,6 +6,10 @@ I'm passionate about using my skills to solve complex problems and am always loo
 
 Thanks for stopping by!
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenhpsr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenhpsr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech Stack
 
 ### Stat, ML, AI, and Data Science
