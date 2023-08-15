@@ -12,13 +12,13 @@ Thanks for stopping by!
 
 ## Tech Stack
 
-### Stat, ML, AI, and Data Science
+### Data Related
 
-[![My Stack](https://skillicons.dev/icons?i=python,flask,mysql,postgresql,r,pytorch,tensorflow)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=python,mysql,postgresql,r,pytorch,tensorflow)](https://skillicons.dev)
 
 ### Web Development
 
-[![My Stack](https://skillicons.dev/icons?i=html,css,js,jest,ts,tailwind,bootstrap,react,prisma,nestjs,postgres,docker,gcp,git)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=js,ts,tailwind,bootstrap,react,prisma,nestjs,postgres,docker,gcp,git)](https://skillicons.dev)
 
 <!--Pinned Repositories:
 
