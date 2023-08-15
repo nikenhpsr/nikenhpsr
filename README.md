@@ -5,8 +5,8 @@ I'm a versatile tech enthusiast with expertise in statistics, data science, Pyth
 Passionate about tackling intricate challenges, I thrive on applying my skills to solve problems. Feel free to explore my repositories for a glimpse of my project journey.
 
 Thanks for visiting!
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenhpsr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenhpsr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenhpsr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
