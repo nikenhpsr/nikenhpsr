@@ -9,7 +9,7 @@ Thanks for visiting!
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenhpsr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenhpsr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ## Tech Stack
 
 ### Data & Tech
@@ -20,7 +20,7 @@ Thanks for visiting!
 
 [![My Stack](https://skillicons.dev/icons?i=js,ts,tailwind,bootstrap,react,prisma,nestjs,postgres,docker,gcp,git)](https://skillicons.dev)
 
-<!--Pinned Repositories:
+Pinned Repositories:
 
 📊 Data Related Projects
 A project analyzing, visualizing, and forecasting data using Python or R.
