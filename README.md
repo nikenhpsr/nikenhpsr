@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a versatile tech enthusiast with expertise in statistics, data science, Python, AI & Machine Learning, and MySQL. I'm also delving into the world of software engineering and have hands-on experience in various projects.
-
-Passionate about tackling intricate challenges, I thrive on applying my skills to solve problems. Feel free to explore my repositories for a glimpse of my project journey.
+I'm a versatile tech enthusiast with expertise in Statistics, Python, and MySQL. I'm also delving into the world of software engineering and have hands-on experience in various projects. Passionate about tackling intricate challenges, I thrive on applying my skills to solve problems. Feel free to explore my repositories for a glimpse of my project journey.
 
 Thanks for visiting!
 <!--
