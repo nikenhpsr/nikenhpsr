@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an actuarial science graduate with a strong background in statistics, data science, Python, AI & Machine Learning, and MySQL. Recently, I've been expanding my skills in software engineering and have experience in several projects.
+I'm a versatile tech enthusiast with expertise in statistics, data science, Python, AI & Machine Learning, and MySQL. I'm also delving into the world of software engineering and have hands-on experience in various projects.
 
-I'm passionate about using my skills to solve complex problems and am always looking for new challenges. Feel free to check out my repositories and contributions to see some of the projects I've worked on.
+Passionate about tackling intricate challenges, I thrive on applying my skills to solve problems. Feel free to explore my repositories for a glimpse of my project journey.
 
-Thanks for stopping by!
+Thanks for visiting!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenhpsr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +12,7 @@ Thanks for stopping by!
 
 ## Tech Stack
 
-### Data Related
+### Data & Tech
 
 [![My Stack](https://skillicons.dev/icons?i=python,mysql,postgresql,r,pytorch,tensorflow)](https://skillicons.dev)
 
@@ -22,17 +22,14 @@ Thanks for stopping by!
 
 <!--Pinned Repositories:
 
-📊 Data Science Project
-A project analyzing and visualizing data using Python and machine learning techniques.
+📊 Data Related Projects
+A project analyzing, visualizing, and forecasting data using Python or R.
 
 🤖 AI & Machine Learning Project
 A project exploring the use of AI and machine learning in predictive modeling.
 
 💻 Software Engineering Project
 A full-stack web application built using Nest.js, Prisma ORM, and PostgreSQL.
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
