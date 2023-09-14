@@ -10,8 +10,6 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 4. [Personal Website](https://nikenhpsr.site) - Astro
 
----
-
 ### ⚙️ Skills
 
 In my spare time, I've passionately explored software engineering, mastering a range of programming languages and technologies such as:
@@ -53,8 +51,6 @@ In my spare time, I've passionately explored software engineering, mastering a r
 | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | Apache Airflow |
 | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)                             | Apache Kafka   |
 
----
-
 ### 📫 How to Reach Me
 
 You can connect with me on:
@@ -64,8 +60,6 @@ You can connect with me on:
 - ✉️ Email: hpsri.niken@gmail.com
 - 🐦 Twitter: @kenhpsr
 - 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
-
----
 
 ### 🚀 My GitHub Stats
 
