@@ -46,7 +46,7 @@ In my spare time, I've passionately explored software engineering, mastering a r
 
 | Data Engineering Tools                                                                                                            | Description            |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)             | IaaS                   |
+| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)             | IaaC                   |
 | ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)                   | Workflow Orchestration |
 | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | Workflow Orchestration |
 | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)            | Batch Processing       |
