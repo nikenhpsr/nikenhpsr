@@ -31,7 +31,7 @@ In my spare time, I've passionately explored software engineering, mastering a r
 
 | ORM / Databases                                                                                                      | Description |
 | -------------------------------------------------------------------------------------------------------------------- | ----------- |
-| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)         | Nest.js     |
+| ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)                | Prisma      |
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | PostgreSQL  |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)               | MySQL       |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)      | MongoDB     |
