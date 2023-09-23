@@ -10,6 +10,16 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 4. [Personal Website](https://nikenhpsr.site) - Astro
 
+### 📫 How to Reach Me
+
+You can connect with me on:
+
+- 🔸 [GitHub](https://github.com/nikenhpsr)
+- 🔗 [LinkedIn](https://linkedin.com/in/nikenhapsari)
+- ✉️ Email: hpsri.niken@gmail.com
+- 🐦 Twitter: @kenhpsr
+- 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
+
 ### ⚙️ Skills
 
 In my spare time, I've passionately explored software engineering, mastering a range of programming languages and technologies such as:
@@ -37,15 +47,6 @@ In my spare time, I've passionately explored software engineering, mastering a r
 | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Deployment       | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)            | Batch Processing       |
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)                    | Deployment       | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)                             | Data Streaming         |
 
-### 📫 How to Reach Me
-
-You can connect with me on:
-
-- 🔸 [GitHub](https://github.com/nikenhpsr)
-- 🔗 [LinkedIn](https://linkedin.com/in/nikenhapsari)
-- ✉️ Email: hpsri.niken@gmail.com
-- 🐦 Twitter: @kenhpsr
-- 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
 
 ### 🚀 My GitHub Stats
 
