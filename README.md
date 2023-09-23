@@ -10,7 +10,7 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 4. [Personal Website](https://nikenhpsr.site) - Astro
    
-5. [Curagan API](https://curagan-api.nikenhpsr.site) - Typescript, Nestjs, Prisma 
+5. [Curagan API](https://curagan-api.nikenhpsr.site/docs) - Typescript, Nestjs, Prisma 
 
 ### 📫 How to Reach Me
 
