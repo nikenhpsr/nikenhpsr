@@ -4,13 +4,13 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 1. [GPV Reserve of Endowment Policy with Monthly and Anually Valuation](https://github.com/nikenhpsr/data-related-projects/blob/main/Python/GPV%20Reserve%20of%20Endowment%20Policy%20with%20Monthly%20and%20Anually%20Valuation/GPV_Reserve.ipynb) - Python
 
-2. [Feastival - Event Discovery App](https://feastival.fun) - TypeScript/Nestjs
+2. [Feastival - Event Discovery App](https://feastival.fun) - TypeScript, Nestjs
 
-3. [Media Maven - Simple News Blog](https://news-app.nikenhpsr.site/) - TypeScript/React
+3. [Media Maven - Simple News Blog](https://news-app.nikenhpsr.site/) - TypeScript, React
 
 4. [Personal Website](https://nikenhpsr.site) - Astro
-
-5. [Whizchat - Realtime Chat App](https://github.com/nikenhpsr/realtime-chat-app) - TypeScript, React, Prisma, Redis, GraphQL
+   
+5. [Curagan API](https://curagan-api.nikenhpsr.site/docs) - Typescript, Nestjs, Prisma 
 
 ### 📫 How to Reach Me
 
@@ -21,6 +21,9 @@ You can connect with me on:
 - ✉️ Email: hpsri.niken@gmail.com
 - 🐦 Twitter: @kenhpsr
 - 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
+
+5. [Whizchat - Realtime Chat App](https://github.com/nikenhpsr/realtime-chat-app) - TypeScript, React, Prisma, Redis, GraphQL
+
 
 ### ⚙️ Skills
 
