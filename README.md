@@ -10,7 +10,9 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 4. [Personal Website](https://nikenhpsr.site) - Astro
    
-5. [Curagan API](https://curagan-api.nikenhpsr.site/docs) - Typescript, Nestjs, Prisma 
+5. [Curagan API](https://curagan-frontend.vercel.app/) - Typescript, Nestjs, Prisma 
+
+6. [Whizchat - Realtime Chat App](https://github.com/nikenhpsr/realtime-chat-app) - TypeScript, React, Prisma, Redis, GraphQL
 
 ### 📫 How to Reach Me
 
@@ -21,9 +23,6 @@ You can connect with me on:
 - ✉️ Email: hpsri.niken@gmail.com
 - 🐦 Twitter: @kenhpsr
 - 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
-
-5. [Whizchat - Realtime Chat App](https://github.com/nikenhpsr/realtime-chat-app) - TypeScript, React, Prisma, Redis, GraphQL
-
 
 ### ⚙️ Skills
 
