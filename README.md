@@ -14,6 +14,8 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 6. [Whizchat - Realtime Chat App](https://github.com/nikenhpsr/realtime-chat-app) - TypeScript, React, Prisma, Redis, GraphQL
 
+Some projects had a server plan that has been terminated. You can preview it on this [slide](https://docs.google.com/presentation/d/1kYDi7nG_CIBpD5FPhoXuIoWiT_u7HOhf2HtGM8kifys/edit?usp=sharing).
+
 ### 📫 How to Reach Me
 
 You can connect with me on:
