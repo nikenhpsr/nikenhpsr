@@ -6,9 +6,9 @@ I'm Niken, an aspiring backend developer on a journey of constant personal and p
 
 2. [Feastival - Event Discovery App](https://feastival.fun) - TypeScript, Nextjs
 
-3. [Media Maven - Simple News Blog](https://news-app.nikenhpsr.site/) - TypeScript, React
+3. [Media Maven - Simple News Blog](https://news-app.nikenhapsari.my.id/) - TypeScript, React
 
-4. [Personal Website](https://nikenhpsr.site) - Astro
+4. [Personal Website](https://nikenhapsari.my.id) - Astro
    
 5. [Curagan API](https://curagan-frontend.vercel.app/) - Typescript, Nextjs, Prisma 
 
@@ -24,7 +24,7 @@ You can connect with me on:
 - 🔗 [LinkedIn](https://linkedin.com/in/nikenhapsari)
 - ✉️ Email: hpsri.niken@gmail.com
 - 🐦 Twitter: @kenhpsr
-- 📊 Portfolio: [Personal Web](https://nikenhpsr.site/)
+- 📊 Portfolio: [Personal Web](https://nikenhapsari.my.id/)
 
 <!-- ### ⚙️ Skills
 
